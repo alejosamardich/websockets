@@ -1,0 +1,5 @@
+[
+    {"id":1,"nombre":"PS5","cantidad":2,"precio":900,"imagen":"https://gmedia.playstation.com/is/image/SIEPDC/ps5-product-thumbnail-01-en-14sep21"},
+    {"id":2,"nombre":"XBOX SERIES X","cantidad":5,"precio":800,"imagen":"https://www.atajo.com.ar/thumb/0000000RRT-0000234357RRT-00002-Consola-Xbox-Series-X-01_800x800.jpg"},
+    {"id":3,"nombre":"NINTENDO SWITCH","cantidad":3,"precio":600,"imagen":"https://www.atajo.com.ar/images/00000HAD-S-KABAA65619HAD-S-KABAA-Consola-Nintendo-Switch-Neon-01.jpg"},
+    {"id":4,"nombre":"PS2","precio":100,"cantidad":1,"imagen":"https://sm.ign.com/t/ign_es/gallery/t/the-best-p/the-best-ps2-games-ever_7ser.1280.jpg"}]

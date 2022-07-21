@@ -1,0 +1,44 @@
+
+.box-shadow {
+  box-shadow: 0 0 5px black;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+tbody{
+  background-color: rgba(0, 255, 255, 0.31);
+  border: 1px black solid;
+}
+
+form{
+  background-color: rgba(0, 255, 255, 0.31);
+}
+
+form p {
+  margin: 0;
+}
+
+form input {
+  margin: 0 0 10px 0;
+  width: 100%
+}
+
+#chat {
+  min-height: 50px;
+  max-height: 400px;
+  overflow-y: scroll;
+  padding: 20px;
+  position: relative;
+}
+
+#chat strong {
+  color: blue;
+}
+
+#chat span {
+  color: brown;
+}
+
+#chat i {
+  color: green;
+}
